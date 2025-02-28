@@ -22,6 +22,6 @@ The platform integrates PostgreSQL for structured data storage, ensuring reliabl
 
 This architecture ensures a seamless, scalable, and efficient system that helps users make informed career choices and upskill effectively.
 
-Schema 
+### Schema 
 ![image](https://github.com/user-attachments/assets/ce8cf23b-b6a0-4ad2-bc02-6c659fce969e)
 
