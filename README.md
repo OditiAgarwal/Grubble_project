@@ -2,13 +2,13 @@
 Project Description 📝
 This platform helps students and professionals navigate their career paths by offering AI-driven personalized roadmaps, skill development courses, and job opportunities. It integrates course data from platforms like Udemy and Coursera, provides career counseling, and offers recruiter access for hiring. With features like AI-powered guidance, skill tracking, and a recommendation system, it aims to bridge the gap between education and employment.
 
-#Architecture Diagram 🏗️
+### Architecture Diagram 🏗️
 
 Here is a high-level diagram that illustrates the architecture of the Grubble ed-tech platform:
 ![Architecture Diagram](https://github.com/user-attachments/assets/16bb7572-1479-4bb7-908c-fd839cdeedad)
 
 
-System Architecture
+### System Architecture
 The career guidance and learning platform consists of three main components: the frontend, backend, and database. The platform follows a client-server architecture, where the frontend acts as the client, while the backend and database function as the server.
 
 🎨 Frontend
