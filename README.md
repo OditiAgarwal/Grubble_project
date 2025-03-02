@@ -1,4 +1,9 @@
 # Grubble
+By:CSC301_Seminar
+22CSU105
+22CSU125
+   
+
 Project Description 📝
 This platform helps students and professionals navigate their career paths by offering AI-driven personalized roadmaps, skill development courses, and job opportunities. It integrates course data from platforms like Udemy and Coursera, provides career counseling, and offers recruiter access for hiring. With features like AI-powered guidance, skill tracking, and a recommendation system, it aims to bridge the gap between education and employment.
 
