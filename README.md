@@ -1,5 +1,5 @@
 # Grubble
-By:CSC301_Seminar
+By : CSC301_Seminar
 22CSU105
 22CSU125
    
